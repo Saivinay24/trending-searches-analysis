@@ -1,6 +1,6 @@
 # WSMA Lab: Trending Searches Analysis
 
-This project is a lab assignment for a Web and Social Media Analytics (WSMA) course. It involves the analysis of a dataset (`trending_searches_in_us.csv`) containing trending Google search queries from the United States.
+This project involves the analysis of a dataset (`trending_searches_in_us.csv`) containing trending Google search queries from the United States.
 
 ## Project Objective
 
